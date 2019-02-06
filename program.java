@@ -6,11 +6,11 @@ class PosNegzero {
       num = sc.nextInt();
 
       if (num > 0){
-         System.out.println("positive");
+         System.out.println("Positive");
       } else if(num < 0){
-         System.out.println("negative");
+         System.out.println("Negative");
       } else {
-         System.out.println("zero");
+         System.out.println("Zero");
       }
    }
  }
